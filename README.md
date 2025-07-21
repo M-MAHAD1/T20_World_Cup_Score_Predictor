@@ -103,4 +103,5 @@ The application is built with Streamlit to allow users to input match conditions
 Author
 
 Muhammad Mahad
+
 muhammadmahad.cs@gmail.com
