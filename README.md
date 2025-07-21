@@ -4,6 +4,11 @@ Overview
 
 This project predicts the final score of a T20 cricket match using machine learning. Multiple regression models were tested and evaluated. Among them, the XGBRegressor model achieved the best results and is used as the final model for predictions. The application provides a web interface built using the Streamlit library for ease of use and real-time prediction capability.
 
+Example:
+
+In the Pakistan vs India T20 World Cup 2022 match at Melbourne Cricket Ground, India scored 113 runs. The model predicted a total of 118 runs — showcasing its high accuracy and real-time application.
+[!image alt](imagelinkaddress)
+
 Project Features
 
 Predicts final T20 cricket match scores based on user input
