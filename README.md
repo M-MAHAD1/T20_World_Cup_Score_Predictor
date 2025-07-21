@@ -8,7 +8,7 @@ Example:
 
 In the Pakistan vs India T20 World Cup 2022 match at Melbourne Cricket Ground, India scored 113 runs. The model predicted a total of 118 runs — showcasing its high accuracy and real-time application.
 
-[!image alt](https://github.com/M-MAHAD1/T20_World_Cup_Score_Predictor/blob/main/score%20prediction.PNG)
+[!image alt]("https://github.com/M-MAHAD1/T20_World_Cup_Score_Predictor/blob/main/score%20prediction.PNG")
 
 Project Features
 
