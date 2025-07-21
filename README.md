@@ -100,7 +100,8 @@ Web Interface
 
 The application is built with Streamlit to allow users to input match conditions and get instant predictions. The interface is simple and user-friendly, requiring no technical background to operate.
 
-Author:
+Author :
 
 Muhammad Mahad
+
 muhammadmahad.cs@gmail.com
